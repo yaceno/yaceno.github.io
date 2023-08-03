@@ -1,5 +1,5 @@
 ---
-title: ZITF2023 - Enisa flag store 1
+title: FCSC 2023 - Enisa flag store 1
 date: 2023-04-30 +0200
 tags: [Web security, SQL Injection]
 categories: [Write-ups]
