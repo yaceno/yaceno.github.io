@@ -6,8 +6,6 @@ The Jekyll team claims that this is to leave the ball in the user’s court, but
 
 To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
 
-Test
-
 ```shell
 .
 ├── _config.yml
