@@ -41,7 +41,7 @@ social:
   email: souam.yacine@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/username # change to your twitter homepage
     - https://github.com/yaceno # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://i.pinimg.com/564x/fb/53/e8/fb53e8de4ed3ff64fc235d7e1766fc83.jpg
+avatar: assets/goro_.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
