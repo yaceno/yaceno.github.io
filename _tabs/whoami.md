@@ -10,7 +10,7 @@ I’m an engineering student in France talking about computer science and more s
 
 That’s why I spend (too much) time on Root-Me and try to participate in CTFS.
 
-I'm also the president of the cybersecurity club at my school, called [Securitiie](https://securitiie.iiens.net/docs/)
+I'm also the president of the cybersecurity club at my school, called [Securitiie](https://securitiie.github.io)
 
 ## University background
 
